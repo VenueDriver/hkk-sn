@@ -45,7 +45,7 @@ gem "therubyracer"
 gem 'shortener', '~> 0.3.0'
 
 # Pagination.
-gem 'kaminari', '~> 0.16.1'
+gem 'kaminari', '~> 1.2.1'
 
 # ZeroClipboard integration, for copying new URLs to the user's clipboard.
 gem 'zeroclipboard-rails', '~> 0.0.13'
